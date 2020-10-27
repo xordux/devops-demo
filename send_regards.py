@@ -11,4 +11,4 @@ if __name__ == "__main__":
     print("The Lannisters send their regards")
     print("And Starks didn't like their regards,"
           " so there will be a rebellion :)")
-    print("Goodbye .............................................................")
+    print("Goodbye .......................................................")
